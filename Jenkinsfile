@@ -1,7 +1,7 @@
 pipeline{
  tools{
-        jdk 'JAVA_HOME1'
-        maven 'M2_HOME1'
+        jdk 'JAVA_HOME_WIN'
+        maven 'M2_HOME_WIN'
     }
      agent { label 'winslave'}
 	  
